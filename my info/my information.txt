@@ -1,0 +1,15 @@
+<html>
+<head>
+    
+    <title>page title</title>
+
+</head>
+<img src="C:\Users\Abhay Chopra\OneDrive\Desktop\photos" alt="my picture">
+  <h1>NAME-abhay chopra</h1>
+  <h2>PHONE NUMBER - 9805751973</h2>
+  <h3>ADDRESS - kangra Himachal Pradesh </h3>
+<body>
+  <a href ="https://github.com/chopra2005">visit site</a>
+    
+</body>
+</html>
